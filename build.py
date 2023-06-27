@@ -13,7 +13,7 @@ def fetch_ci_time(filePath):
 
 if __name__ == "__main__":
   readmefile=open('README.md','w')
-  readmefile.write("# 随便写写的个人博客 (credit. https://github.com/tw93/weekly)\n\n")
+  readmefile.write("# 随便写写的个人博客\n\n>此处可能有个描述\n原项目. https://github.com/tw93/weekly\n\n")
 
   for root, dirs, filenames in os.walk('./src/pages/posts'):
     filenames = sorted(filenames, key=lambda x:float(re.findall("(\d+)",x)[0]), reverse=True)

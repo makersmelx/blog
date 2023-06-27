@@ -1,11 +1,12 @@
 // 转化成标题
 export const parseTitle = (currentPage: string) => {
   const oldTitle = decodeURIComponent(currentPage.split('/posts/')[1]);
-  let title = '第' + oldTitle.split('-')[0] + '期 - ' + oldTitle.split('-')[1];
-  if (title.slice(-1) == '/') {
-    title = title.substring(0, title.length - 1);
-  }
-  return title
+  // let title = '第' + oldTitle.split('-')[0] + '期 - ' + oldTitle.split('-')[1];
+  // if (title.slice(-1) == '/') {
+  //   title = title.substring(0, title.length - 1);
+  // }
+  // return title
+  return oldTitle;
 }
 
 //获取当前文章的序号

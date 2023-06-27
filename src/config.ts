@@ -1,14 +1,14 @@
 export const SITE = {
-  title: '潮流周刊',
-  author: 'Tw93',
-  description: '记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注',
+  title: '名字后头再说',
+  author: 'makersmelx',
+  description: 'makersmelx 的随意日常',
   keywords: 'Tw93,Weekly,Blog,前端,macOS,MiaoYan,Pack,Swift',
-  icon: 'https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png',
-  pic: 'https://cdn.fliggy.com/upic/2XFNGI.png',
-  homePage: 'https://weekly.tw93.fun',
-  blogPage: 'https://tw93.fun/',
-  twitterId: 'HiTw93',
-  githubId: 'tw93',
-  repo: 'tw93/weekly'
+  icon: 'https://s2.loli.net/2023/06/28/Fxjvks2DmbiTIwz.png',
+  pic: 'https://s2.loli.net/2023/06/28/Fxjvks2DmbiTIwz.png',
+  homePage: 'https://jiayao.me',
+  blogPage: 'https://jiayao.me/blog',
+  twitterId: 'makersmelx',
+  githubId: 'makersmelx',
+  repo: 'blog'
 };
 

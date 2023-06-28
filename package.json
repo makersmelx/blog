@@ -18,7 +18,9 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "prepare": "husky install",
+    "build:doc":"python3 build.py"
   },
   "dependencies": {
     "@algolia/client-search": "^4.14.2",
@@ -29,6 +31,7 @@
     "@tailwindcss/line-clamp": "^0.4.2",
     "astro": "^1.4.7",
     "dayjs": "^1.11.5",
+    "husky": "^8.0.3",
     "lozad": "^1.16.0",
     "node-html-parser": "^6.1.1",
     "react": "^18.2.0",

@@ -18,7 +18,7 @@ export const get = () =>
     title: SITE.title,
     description: SITE.description,
     site: SITE.blogPage,
-    customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
+    customData: `<image><url>${SITE.icon}</url></image>`,
     items: posts.map((item) => {
       const url = item.url;
       const title = url.split('/posts/')[1];

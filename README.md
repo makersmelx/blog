@@ -3,6 +3,7 @@
 >此处可能有个描述
 原项目. https://github.com/tw93/weekly
 
+* [08-日本23夏—京都](https://jiayao.me/blogs/posts/08-日本23夏—京都)
 * [07-日本23夏-宇治](https://jiayao.me/blogs/posts/07-日本23夏-宇治)
 * [06-日本23夏-博多随行](https://jiayao.me/blogs/posts/06-日本23夏-博多随行)
 * [05-日本23夏-小仓与关门海峡](https://jiayao.me/blogs/posts/05-日本23夏-小仓与关门海峡)

@@ -22,3 +22,7 @@ pnpm-debug.log*
 pnpm-lock.yaml
 .vercel
 dist
+
+
+# bbs archive
+**/bbs-archive/**

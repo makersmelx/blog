@@ -3,6 +3,8 @@
 >此处可能有个描述
 原项目. https://github.com/tw93/weekly
 
+* [10-日本23夏—铁路与飞机](https://jiayao.me/blogs/posts/10-日本23夏—铁路与飞机)
+* [09-日本23夏-东京大阪走马观花](https://jiayao.me/blogs/posts/09-日本23夏-东京大阪走马观花)
 * [08-日本23夏—京都](https://jiayao.me/blogs/posts/08-日本23夏—京都)
 * [07-日本23夏-宇治](https://jiayao.me/blogs/posts/07-日本23夏-宇治)
 * [06-日本23夏-博多随行](https://jiayao.me/blogs/posts/06-日本23夏-博多随行)

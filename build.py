@@ -22,7 +22,7 @@ if __name__ == "__main__":
       if name.endswith('.md'):
         filepath = urllib.parse.quote(name)
         oldTitle = name.split('.md')[0]
-        url   = 'https://jiayao.me/blogs/posts/' + oldTitle
+        url   = 'https://randomly.jiayao.me/posts/' + oldTitle
         readmeMd= '* [{}]({})\n'.format(oldTitle, url)
         readmefile.write(readmeMd)
 

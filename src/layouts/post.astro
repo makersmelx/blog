@@ -9,16 +9,14 @@ import { SITE } from '@/config';
 import { parseTitle, sortPosts, getIndex } from '@/util';
 
 export interface Props {
-  frontmatter: { date: any; pic: any; desc: any; url: any; twitterImg: any };
+  frontmatter: { date: any; pic: any; desc: any; url: any; twitterImg: any; title: any };
   title: string;
 }
 
 const pageUrl = new URL(Astro.request.url);
 const currentPage = pageUrl.pathname;
 
-let title = parseTitle(currentPage);
-
-const { date, pic, desc, url, twitterImg } = Astro.props.frontmatter;
+const { date, pic, desc, url, twitterImg, title } = Astro.props.frontmatter;
 const content = {
   title,
   image: pic,
@@ -187,12 +185,12 @@ if (postIndex < allPosts.length) {
           class="markdown-body heti md:mx-auto md:pb-20 pb-14 xl:max-w-7xl w-full lg:max-w-5xl md:max-w-2xl md:pl-3.5"
           id="write"
         >
-          <h1 class="content-title flex align-middle text-gray-800">
+          <!-- <h1 class="content-title flex align-middle text-gray-800">
             <a class="logo inline-block md:hidden visible" href="/"
               ><AstroLogo size={40} />
             </a>
             {title}
-          </h1>
+          </h1> -->
           <slot />
           <hr />
           <div

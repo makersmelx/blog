@@ -1,13 +1,13 @@
 ---
-date: 2023/09/29
+date: 2023/08
 ---
+# 路过东京与大阪
 
 <img src="https://s2.loli.net/2023/09/29/lDwJXgfSE2vCpus.jpg" alt="tokyo tower" />
 
 <small>仰视东京塔</small>
 
 
-# 东京和大阪走马观花
 大阪是去看魔法未来演唱会的，飞机从上海飞到大阪也算是旅行的起点。东京是去找朋友玩的，最后从成田飞往美国的也算是旅行的终点。匆匆的来匆匆的去，就是在走马观花。
 
 ![](https://s2.loli.net/2023/09/29/nS9F2bmGQ1aRXJU.jpg)

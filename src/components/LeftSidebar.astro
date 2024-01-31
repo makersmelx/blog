@@ -1,25 +1,27 @@
 ---
 const { currentPage } = Astro.props;
-import AstroLogo from './Header/AstroLogo.astro';
-import {SITE} from '@/config';
-import {parseTitle,sortPosts} from '@/util'
+import AstroLogo from "./Header/AstroLogo.astro";
+import { SITE } from "@/config";
+import { parseTitle, sortPosts } from "@/util";
 
-const posts = await Astro.glob('../pages/posts/*.md');
-const allPosts = sortPosts(posts)
+const posts = await Astro.glob("../pages/posts/*.md");
+const allPosts = sortPosts(posts);
 
 let currentPageMatch = currentPage.slice(1);
-if (currentPageMatch.slice(-1) == '/') {
+if (currentPageMatch.slice(-1) == "/") {
   currentPageMatch = currentPageMatch.substring(0, currentPageMatch.length - 1);
 }
 
 const sidebarSections = allPosts.reduce((col, item, i) => {
   const url = item.url;
   const route = {
-    title: parseTitle(url),
+    title: `${(allPosts.length - i).toString().padStart(2, "0")}.${
+      item.frontmatter.title
+    } [${item.frontmatter.date}]`,
     link: url.slice(1),
   };
   if (i === 0) {
-    const pesudoSection = { text: '' };
+    const pesudoSection = { text: "" };
     col.push({ ...pesudoSection, children: [] });
   }
   col[col.length - 1].children.push(route);
@@ -48,8 +50,8 @@ const sidebarSections = allPosts.reduce((col, item, i) => {
                     href={`/${child.link}`}
                     aria-current={`${
                       decodeURIComponent(currentPageMatch) === child.link
-                        ? 'page'
-                        : 'false'
+                        ? "page"
+                        : "false"
                     }`}
                   >
                     {child.title}
@@ -65,10 +67,10 @@ const sidebarSections = allPosts.reduce((col, item, i) => {
 </nav>
 
 <script is:inline>
-  window.addEventListener('DOMContentLoaded', (event) => {
+  window.addEventListener("DOMContentLoaded", (event) => {
     var target = document.querySelector('[aria-current="page"]');
     if (target && target.offsetTop > window.innerHeight - 100) {
-      document.querySelector('.nav-groups').scrollTop = target.offsetTop - 86;
+      document.querySelector(".nav-groups").scrollTop = target.offsetTop - 86;
     }
   });
 </script>
@@ -121,7 +123,7 @@ const sidebarSections = allPosts.reduce((col, item, i) => {
     color: var(--theme-text-accent);
   }
 
-  .nav-link a[aria-current='page'] {
+  .nav-link a[aria-current="page"] {
     color: var(--theme-text-accent);
     font-weight: bolder;
   }

@@ -1,10 +1,12 @@
 ---
-date: 2023/09/29
+date: 2023/08
 ---
+# 铁路与飞机
 
 <img src="https://s2.loli.net/2023/09/27/oO4kUigaLuNb2MI.jpg" alt="500 shinkansen"/>
 
 <small>こだま（500系）—— 小仓站</small>
+
 
 ## 特急ソニック（特急音速）（885系）
 ![](https://s2.loli.net/2023/09/26/p2Mt9ARlwVQLS7c.jpg)

@@ -24,7 +24,9 @@ export const get = () =>
       const { title, date } = item.frontmatter;
       return {
         link: url,
-        title: `${(i + 1).toString().padStart(2, "0")}.${title} [${date}]`,
+        title: `${(posts.length - i)
+          .toString()
+          .padStart(2, "0")}.${title} [${date}]`,
         description: item.compiledContent(),
         pubDate: item.frontmatter.date,
       };

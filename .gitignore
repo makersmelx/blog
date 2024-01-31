@@ -22,4 +22,4 @@ pnpm-debug.log*
 pnpm-lock.yaml
 .vercel
 dist
-src/pages/drafts/**
+drafts/**

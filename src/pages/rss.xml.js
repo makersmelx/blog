@@ -21,7 +21,7 @@ export const get = () =>
     customData: `<image><url>${SITE.icon}</url></image>`,
     items: posts.map((item, i) => {
       const url = item.url;
-      const { title, date } = item.astro.frontmatter;
+      const { title, date } = item.frontmatter;
       return {
         link: url,
         title: `${(i + 1).toString().padStart(2, "0")}.${title} [${date}]`,

@@ -1,12 +1,12 @@
-import rss from '@astrojs/rss';
-import { SITE } from '../config';
+import rss from "@astrojs/rss";
+import { SITE } from "../config";
 
-let allPosts = import.meta.glob('./posts/*.md', { eager: true });
+let allPosts = import.meta.glob("./posts/*.md", { eager: true });
 let posts = Object.values(allPosts);
 posts = posts.sort((a, b) => {
   return (
-    parseInt(b.url.split('/posts/')[1].split('-')[0]) -
-    parseInt(a.url.split('/posts/')[1].split('-')[0])
+    parseInt(b.url.split("/posts/")[1].split("-")[0]) -
+    parseInt(a.url.split("/posts/")[1].split("-")[0])
   );
 });
 
@@ -19,12 +19,12 @@ export const get = () =>
     description: SITE.description,
     site: SITE.blogPage,
     customData: `<image><url>${SITE.icon}</url></image>`,
-    items: posts.map((item) => {
+    items: posts.map((item, i) => {
       const url = item.url;
-      const title = url.split('/posts/')[1];
+      const { title, date } = item.astro.frontmatter;
       return {
         link: url,
-        title,
+        title: `${(i + 1).toString().padStart(2, "0")}.${title} [${date}]`,
         description: item.compiledContent(),
         pubDate: item.frontmatter.date,
       };

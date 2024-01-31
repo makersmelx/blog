@@ -14,10 +14,11 @@ if (currentPageMatch.slice(-1) == "/") {
 
 const sidebarSections = allPosts.reduce((col, item, i) => {
   const url = item.url;
+  const { title, date } = item.frontmatter;
   const route = {
-    title: `${(allPosts.length - i).toString().padStart(2, "0")}.${
-      item.frontmatter.title
-    } [${item.frontmatter.date}]`,
+    title: `${(allPosts.length - i)
+      .toString()
+      .padStart(2, "0")}.${title} [${date}]`,
     link: url.slice(1),
   };
   if (i === 0) {

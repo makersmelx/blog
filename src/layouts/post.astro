@@ -1,15 +1,22 @@
 ---
-import '../styles/heti.min.css';
-import HeadCommon from '../components/HeadCommon.astro';
-import HeadSEO from '../components/HeadSEO.astro';
-import Footer from '../components/Footer.astro';
-import AstroLogo from '../components/Header/AstroLogo.astro';
-import LeftSidebar from '../components/LeftSidebar.astro';
-import { SITE } from '@/config';
-import { parseTitle, sortPosts, getIndex } from '@/util';
+import "../styles/heti.min.css";
+import HeadCommon from "../components/HeadCommon.astro";
+import HeadSEO from "../components/HeadSEO.astro";
+import Footer from "../components/Footer.astro";
+import AstroLogo from "../components/Header/AstroLogo.astro";
+import LeftSidebar from "../components/LeftSidebar.astro";
+import { SITE } from "@/config";
+import { parseTitle, sortPosts, getIndex } from "@/util";
 
 export interface Props {
-  frontmatter: { date: any; pic: any; desc: any; url: any; twitterImg: any; title: any };
+  frontmatter: {
+    date: any;
+    pic: any;
+    desc: any;
+    url: any;
+    twitterImg: any;
+    title: any;
+  };
   title: string;
 }
 
@@ -26,14 +33,14 @@ const content = {
 const currentUrl = SITE.homePage + currentPage;
 
 // 或者下一篇文章
-const posts = await Astro.glob('../pages/posts/*.md');
+const posts = await Astro.glob("../pages/posts/*.md");
 const allPosts = sortPosts(posts);
 const postIndex = getIndex(currentPage);
-let nextUrl = '';
+let nextUrl = "";
 if (postIndex > 2) {
   nextUrl = allPosts[allPosts.length - postIndex + 1].url;
 }
-let prevUrl = '';
+let prevUrl = "";
 if (postIndex < allPosts.length) {
   prevUrl = allPosts[allPosts.length - postIndex - 1].url;
 }
@@ -44,7 +51,7 @@ if (postIndex < allPosts.length) {
     <HeadCommon />
     <HeadSEO content={content} pageURL={currentUrl} />
     <meta name="generator" content={Astro.generator} />
-    <title>{SITE.title}{title}</title>
+    <title>{SITE.title}{title}{date}</title>
     <style>
       body {
         width: 100%;
@@ -233,18 +240,17 @@ if (postIndex < allPosts.length) {
         </div>
         <script
           src="https://giscus.app/client.js"
-          data-repo={SITE.repo}
-          data-repo-id="R_kgDOG4TsQA"
+          data-repo="makersmelx/blog"
+          data-repo-id="R_kgDOJ057hg"
           data-category="General"
-          data-category-id="DIC_kwDOG4TsQM4CR4bV"
+          data-category-id="DIC_kwDOJ057hs4Cc09a"
           data-mapping="title"
           data-strict="0"
           data-reactions-enabled="1"
           data-emit-metadata="0"
           data-input-position="bottom"
           data-theme="https://gw.alipayobjects.com/os/k/3gwxfz/comment.css"
-          data-lang="zh-CN"
-          data-loading="lazy"
+          data-lang="en"
           crossorigin="anonymous"
           async
         ></script>

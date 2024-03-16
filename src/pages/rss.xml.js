@@ -9,7 +9,7 @@ posts = posts.sort((a, b) => {
     parseInt(a.url.split("/posts/")[1].split("-")[0])
   );
 });
-
+let totalSize = posts.length;
 //只保留15，当前太多了
 posts.splice(15);
 
@@ -24,7 +24,7 @@ export const get = () =>
       const { title, date } = item.frontmatter;
       return {
         link: url,
-        title: `${(posts.length - i)
+        title: `${(totalSize - i)
           .toString()
           .padStart(2, "0")}.${title} [${date}]`,
         description: item.compiledContent(),

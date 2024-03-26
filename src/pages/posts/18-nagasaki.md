@@ -247,7 +247,7 @@ https://maps.app.goo.gl/7WU5cBuqGvJNLGud8
 ![](https://s2.loli.net/2024/03/26/fw186bNu3cyoE5x.jpg)
 ![](https://s2.loli.net/2024/03/26/MAitsYcLfzuQWBX.jpg)
 
-### 长崎散策
+#### 长崎散策
 ![](https://s2.loli.net/2024/03/26/A4FYCr5HUi9D1Jy.jpg)
 <small>长崎是山上的城市——东山公园，长崎</small>
 
@@ -255,7 +255,7 @@ https://maps.app.goo.gl/7WU5cBuqGvJNLGud8
 
 散步就花了一整个白天，起点于中华街，终点在锅冠山山顶，至此正好是日落时分。天气不作美，下了一整天的雨，大部分时间都是淅淅沥沥的小雨，冲锋衣的帽子便能应付。中午有一阵子瓢泼大雨，赶忙是躲进了大浦天主堂，可以说是被迫入场参观。
 
-#### 水辺の森公園~東山手町
+##### 水辺の森公園~東山手町
 ![](https://s2.loli.net/2024/03/26/Hg1nmvU5LVQjd3h.jpg)
 <small>路面电车在大十字路口处有一个漂亮的大转弯</small>
 
@@ -289,7 +289,7 @@ https://maps.app.goo.gl/7WU5cBuqGvJNLGud8
 ![](https://s2.loli.net/2024/03/26/j5zy7OkvYWwpPKx.jpg)
 <small>長崎電気軌道石橋駅</small>
 
-#### 長崎浜町~眼鏡橋
+##### 長崎浜町~眼鏡橋
 下山之后坐路面电车去了一下浜町吃午饭，然后再原路返回了石橋。
 ![](https://s2.loli.net/2024/03/26/QkO6gsCDLAoxeGv.jpg)
 <small>長崎電気軌道眼鏡橋駅</small>
@@ -302,7 +302,7 @@ https://maps.app.goo.gl/7WU5cBuqGvJNLGud8
 ![](https://s2.loli.net/2024/03/26/tnbifNTqEc3s1Rk.jpg)
 ![](https://s2.loli.net/2024/03/26/oMCfBEUT4NSADRG.jpg)
 
-#### 南山手町～鍋冠山
+##### 南山手町～鍋冠山
 ![](https://s2.loli.net/2024/03/26/TZyK4unxFPrJWiQ.jpg)
 <small>長崎電気軌道石橋駅</small>
 
@@ -364,7 +364,7 @@ https://maps.app.goo.gl/7WU5cBuqGvJNLGud8
 
 等天完全黑了，我便下山了，登山的路照明充足，走夜路也很安全。然后坐电车回到新地中华街，再换公交车，前往稻佐山。
 
-#### 地图参考
+##### 地图参考
 做了一张我的散步地图简单的说明，水辺の森公園~東山手町是红色，南山手町～鍋冠山是黄色。
 ![](https://s2.loli.net/2024/03/26/r5a2bgwAEnYoLuC.png)
 
@@ -421,15 +421,13 @@ https://tabelog.com/nagasaki/A4201/A420101/42000481/
 
 
 #### 二次元部分（色づく世界の明日から）
-<details>
-<summary>正文</summary>
 正如刚刚这个地图所说，这个散步路线其实是一个完整的圣地巡礼路线。动漫是P.A.WORKS在2018年的一部作品「色づく世界の明日から」，来自多彩世界的明天。
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-61wW9ok2mc9NllBEUZf5LgZP2UO-AY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 散步前头都介绍过了，直接上图了，下头的图是按照散策顺序来的。
 
-### 新地中華街〜水辺の森公園~東山手町
+##### 新地中華街〜水辺の森公園~東山手町
 新地中华街站前，灯笼偶尔也挺碍事的...
 ![](https://s2.loli.net/2024/03/26/RakdMzCmfXUOheF.jpg)
 
@@ -471,7 +469,7 @@ https://tabelog.com/nagasaki/A4201/A420101/42000481/
 
 ![](https://s2.loli.net/2024/03/26/5V6IoZbP8C2JDgf.jpg)
 
-#### 長崎浜町~眼鏡橋
+##### 長崎浜町~眼鏡橋
 ![](https://s2.loli.net/2024/03/26/EwsZ8QkendcoUK2.jpg)
 
 眼鏡橋的op cut
@@ -480,7 +478,7 @@ https://tabelog.com/nagasaki/A4201/A420101/42000481/
 这一张主视觉图也是在眼睛桥，不过这个需要在另外一个桥用长焦来拍，拍摄点已经在谷歌地图标出，以及要注意，不能在长崎灯会期间...不然全是灯笼，完全不可能。
 ![](https://s2.loli.net/2024/03/26/Qx6G5ZjN4g3EToa.png)
 
-#### 南山手町～鍋冠山
+##### 南山手町～鍋冠山
 glover sky road 山脚
 ![](https://s2.loli.net/2024/03/26/x8KvHuEBaDyPioV.jpg)
 
@@ -536,9 +534,9 @@ op cut, 鍋冠山展望台。解这个机位花了我好长的时间，最后发
 回到祈念坂那边，往另一个方向拍，是另一个ed cut。
 ![](https://s2.loli.net/2024/03/26/AMWDKNQCPUdIv2r.jpg)
 
-#### 尾记
+##### 尾记
 我承认这动画剧情是真不咋地，我也没指望过...这部动画吸引我的不仅是角色设计，还有这美轮美奂的背景。不禁感叹，PA社旅行团是真的懂旅游的...这一条巡礼路线就是一条完整的长崎散策路线，完完整整将长崎所有有意思的地方就这么串了起来。不仅如此，就连山上的石板路，交叉路口，这些随处可见的普通场景，都能搞出一些令人眼前一亮的拍照思路。
-</details>
+
 
 ### 尾记与花絮
 说不定下次还会再来佐世保和长崎看看。

@@ -2,7 +2,7 @@
 date: 2024/3
 ---
 
-## 6. 南海有些遥远——鹿儿岛，指宿
+## 南海有些遥远——鹿儿岛，指宿
 <img src="https://s2.loli.net/2024/03/29/PRQB2kqfITUWD89.jpg" />
 <small>JR最南端の駅ー西大山駅</small>
 

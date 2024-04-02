@@ -2,7 +2,7 @@
 date: 2024/04
 ---
 
-## 终末前彷徨——小仓与JR九州，九州综述
+## 最后一日的彷徨——小仓与JR九州，九州综述
 
 <img src="https://s2.loli.net/2024/04/02/NTlM9D7iFmqhWQG.jpg"/>
 

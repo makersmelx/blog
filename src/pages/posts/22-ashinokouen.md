@@ -2,7 +2,7 @@
 date: 2024/05
 ---
 
-## 芦野公園
+## 芦野公園的樱花
 
 <img src="https://s2.loli.net/2024/05/04/MoraWegsHzvGCVp.jpg"/>
 

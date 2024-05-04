@@ -35,6 +35,10 @@ date: 2024/05
 <img src="https://s2.loli.net/2024/05/04/epR13P2mtYxWQUH.jpg"/>
 <small>普通列车下行——从站台向北望去</small>
 
+虽然没录视频，连拍拍得多了，发现能串成一个gif...
+
+<img src="https://s2.loli.net/2024/05/04/A2CtRXMHy6vadkF.gif"/>
+
 另一边要在车站南边的道口边，是人最多的地方。等到列车快要到达的时候，管道口的大爷，一左一右拉起两条警戒线，封住道口，所有人便会上前挤到警戒线上。我提前半个小时了占了一个最前面的位置，贴着警戒线，拍远方角度很好，拍站台只要把相机举高，就不会拍到大家的脑袋瓜子了。
 <img src="https://s2.loli.net/2024/05/04/rRfIKLGJ5pV4tmB.jpg"/>
 <img src="https://s2.loli.net/2024/05/04/MoraWegsHzvGCVp.jpg"/>

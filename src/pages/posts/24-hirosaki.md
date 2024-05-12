@@ -5,6 +5,7 @@ date: 2024/05
 ## 樱花树下没有苹果——弘前
 
 <img src="https://s2.loli.net/2024/05/11/Iekol6uJGCPfy54.jpg"/>
+
 <small>春陽橋的樱花——弘前城</small>
 
 <br>

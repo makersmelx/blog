@@ -114,6 +114,7 @@ JR站，站内的特产品店，一楼车站大门。
 弘前樱花祭典主会场的特设摊位。
 <img src="https://s2.loli.net/2024/05/12/kKxQFSUX1fVpH2G.jpg"/>
 <img src="https://s2.loli.net/2024/05/12/EYstGIPK5b3FqWr.jpg"/>
+<img src="https://s2.loli.net/2024/05/12/kf1VHUiKc9bupBx.jpg"/>
 <img src="https://s2.loli.net/2024/05/12/RckaEOp6UjGVfrC.jpg"/>
 <img src="https://s2.loli.net/2024/05/12/zYvx84WhXSTE1Kn.jpg"/>
 

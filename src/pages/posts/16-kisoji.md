@@ -1,5 +1,5 @@
 ---
-date: 2024/03
+date: 2024/02
 ---
 ## 「木曾路」はすべて山の中である
 <img src="https://s2.loli.net/2024/03/14/Fgikb3h8z7VCHsO.jpg" />

@@ -4,6 +4,7 @@ date: 2024/04
 
 ## 秋田什么都有一些——秋田与角館
 <img src="https://s2.loli.net/2024/05/21/evCGZL1FzXUdlTu.jpg"/>
+
 <small>枝垂れ桜——角館</small>
 
 ### 角館

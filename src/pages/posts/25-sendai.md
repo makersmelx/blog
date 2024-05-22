@@ -3,7 +3,7 @@ date: 2024/04
 ---
 
 
-## 仙台半日游
+## 仙台的烤牛舌会有毛豆奶昔
 <img src="https://s2.loli.net/2024/05/16/PeScIshVLi47TH5.jpg"/>
 
 <small>观光循环巴士——るーぷる仙台</small>

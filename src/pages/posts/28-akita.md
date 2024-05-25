@@ -139,7 +139,7 @@ Komachi在秋田新干线段还算良心，除了可以用新干线的价格去�
 Dormy Inn 秋田，在千秋公园的马路对面，离车站走路十分钟，也不赖。在chase portal上的价格和agoda差的不多，是一个适合用CSP$50的地方。
 
 Dormy Inn一直是我挺喜欢的连锁牌子，早饭虽然会贵但是绝不差，每个酒店都有大浴场，跑了一天回来泡个澡实在是惬意。要是订酒店的时候，包含早餐的plan价格还不错的话，就加个早餐吧。
-<img src="https://s2.loli.net/2024/05/22/aHZym3RFNseSrPY.jpg"/>
+<img width="100%" src="https://s2.loli.net/2024/05/22/aHZym3RFNseSrPY.jpg"/>
 
 <img src="https://s2.loli.net/2024/05/22/hyaf7wC38AKcd4W.jpg"/>
 

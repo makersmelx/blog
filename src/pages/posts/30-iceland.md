@@ -2,7 +2,7 @@
 date: 2024/07
 ---
 
-## 冰岛
+## 从未逃离——冰岛
 
 <img src="https://s2.loli.net/2024/08/11/CKj4g1D9m8IAyHv.jpg"/>
 

@@ -7,8 +7,8 @@ export const SITE = {
   pic: 'https://s2.loli.net/2024/03/30/oOXwkIGhjg9rNc8.jpg',
   homePage: 'https://randomly.jiayao.me',
   blogPage: 'https://randomly.jiayao.me',
-  twitterId: 'makersmelx',
-  githubId: 'makersmelx',
+  twitterId: '',
+  githubId: '',
   repo: 'blog'
 };
 

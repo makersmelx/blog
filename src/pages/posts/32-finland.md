@@ -12,7 +12,7 @@ date: 2024/07
 <img src="https://s2.loli.net/2024/09/25/gIERbJxzKMYih6k.jpg"/>
 <img src="https://s2.loli.net/2024/09/25/9dnsJTUDaRiF2Aq.jpg"/>
 
-机场线是赫尔辛基通勤铁路的一部分，除了通勤铁路，赫尔辛基中央火车站还有长途城际客运，近郊城际客运业务。不论是火车站的大厅，双层火车，其他的一切还是挺欧洲的。
+机场线是赫尔辛基通勤铁路的一部分，除了通勤铁路，赫尔辛基中央火车站还有长途城际客运，近郊城际客运业务。芬兰国家铁路，也就是 VR，也只有 logo 比较像日本了，其他的一切，比如火车站的大厅，比如一列即将发车的双层火车，还是挺欧洲的。
 <img src="https://s2.loli.net/2024/09/25/PclQHUIa8zojpAC.jpg"/>
 <small>Helsinki Central Station, Helsinki, Finland</small>
 <img src="https://s2.loli.net/2024/09/25/Y25FQ3MqKN9xwEk.jpg"/>
